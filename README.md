@@ -12,7 +12,7 @@ Fetching data from the Countries GraphQL API using Apollo GraphQL.
 
    
 
-**My Medium:** https://medium.com/@anna972606
+**My Medium:** [https://medium.com/@anna972606](https://medium.com/@anna972606/graphql-with-apollo-android-010b26b333f4)
 
 ![Screenshot_1730715551](https://github.com/user-attachments/assets/6db5b025-8d7f-44a0-91a2-c489f6da3eb4)
 
